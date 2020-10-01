@@ -1,19 +1,12 @@
 ## Table of Contents
 
-<!--for unorder list-->
-
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
   - [System Requirements](#system-requirements)
   - [Installation Instructions](#installation-instructions)
   - [Running the application locally](#running-the-application-locally)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Learning Resources](#learning-resources)
-- [Motivation](#motivation)
-- [Mentors](#mentors)
-- [Project Admin](#project-admin)
 
-## Major Objective
+## Major Objectives
 
 - Word-Bank helps us to thinking about word meanings, the relationships among words, and how we can use words in different situations.
 - Word-Bank words (rich, robust instruction) to support understanding of texts containing those words.
@@ -22,7 +15,8 @@
 
 ## Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap, ReactJS
+- **FrontEnd:** HTML5, CSS3, JavaScript, Bootstrap, ReactJS
+- **Server Side:** NodeJS, ExpressJS
 
 ## Getting Started
 
@@ -53,27 +47,19 @@ As this is a React JS application, you need the following to support your develo
 **First Time Only**
 
 1. [Fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) the project.
-
 2. Clone the project.
-
    ```bash
-   git clone /https://praveenscience@github.com/praveenscience/Word-Bank.git
+   git clone https://<your-username>@github.com/<your-username>/Word-Bank.git
    ```
-
 3. Enter the project directory.
-
    ```bash
    cd Word-Bank
    ```
-
-4. Enter the project specific directory.
-
+4. Enter the area specific directory (client or server).
    ```bash
    cd  client
    ```
-
 5. Install the required modules.
-
    ```bash
    npm install
    ```
@@ -81,21 +67,15 @@ As this is a React JS application, you need the following to support your develo
 **Every time when you start to develop, please do this.**
 
 1. Enter the project directory.
-
    ```bash
    cd Word-Bank
    ```
-
-2. Enter the project specific directory.
-
+2. Enter the area specific directory (client or server).
    ```bash
    cd client
    ```
-
 3. Start the application.
-
    ```bash
    npm start
    ```
-
-4. Open http://localhost:3000/ on your favourite browser. Let anyone from the mentoring team know, if you are facing any troubles.
+4. Open http://localhost:3000/ on your favourite browser.
