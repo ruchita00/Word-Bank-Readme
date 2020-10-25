@@ -15,7 +15,7 @@
 
 ## Tech Stack
 
-- **FrontEnd:** HTML5, CSS3, JavaScript, Bootstrap, ReactJS
+- **FrontEnd:** HTML5, CSS3, JavaScript, Bootstrap, ReactJS, SASS
 - **Server Side:** NodeJS, ExpressJS
 
 ## Getting Started
